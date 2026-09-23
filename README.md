@@ -69,7 +69,7 @@ Web・アプリの動作検証、テストケース作成、不具合報告の�
 
 | 成果物 | 内容 | リンク |
 |---|---|---|
-| テストケース | 12件の機能テストと実施結果 | [テストケース一覧](test-cases/skimaplus-test-cases.md) |
+| テストケース | 12件の機能テストと実施結果 | [テストケース一覧](test-cases/sukimaplus-test-cases.md) |
 | 検証エビデンス | 実機で取得したスクリーンショット3枚 | [検証画像](evidence/screenshots/) |
 | 不具合報告書 | 想定不具合を用いた報告書の作成サンプル | [不具合報告書](bug-reports/bug-report-sample.md) |
 
